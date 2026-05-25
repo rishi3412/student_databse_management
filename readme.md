@@ -3,7 +3,7 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone <repository_link>
+git clone https://github.com/rishi3412/student_databse_management
 cd student_database_management
 ```
 
